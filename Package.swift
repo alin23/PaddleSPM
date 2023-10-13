@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "Paddle",
             url: "https://files.lowtechguys.com/Paddle.xcframework.zip",
-            checksum: "23afa1a4676ad96cd347fe99be0e3d338619326b7ed12646ea8b3b8319f1b11b"
+            checksum: "1cc8ec8af0e446786d6c8c5fae4ae9225419e64a675b7a3393907220774ed4ac"
         ),
     ]
 )
